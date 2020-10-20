@@ -51,7 +51,7 @@ The last three (3) lines will overwrite ubridge from apt install Next, as a **no
 mkdir -p ~/GNS3/projects
 mkdir -p ~/GNS3/images
 ```
-Inspired from ``https://github.com/SirToffski/Arch-GNS3-Helper``
+Inspired from https://github.com/SirToffski/Arch-GNS3-Helper
 ## Reference
 * https://lms.onnocenter.or.id/wiki/index.php/GNS3:_Instalasi
 
