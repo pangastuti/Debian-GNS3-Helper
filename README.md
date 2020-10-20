@@ -29,3 +29,7 @@ Install
 ``sudo dpkg --add-architecture i386``
 ### Update Repo
 ```sudo apt update```
+### Install GNS3 & Depedencies
+```sudo apt -y install gns3-gui gns3-iou gns3-server virtualbox qemu wireshark libpcap-dev git ubridge```
+### Change Permission for Wireshark
+```sudo chmod 777 /usr/bin/dumpcap```
