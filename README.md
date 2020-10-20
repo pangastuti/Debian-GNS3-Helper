@@ -46,5 +46,9 @@ make install
 cp -p ubridge /usr/bin
 setcap cap_net_admin,cap_net_raw=ep /usr//bin/ubridge
 ```
-#### The last three (3) lines will overwrite ubridge from apt install Next, as a normal user, prepare a directory.
+The last three (3) lines will overwrite ubridge from apt install Next, as a **normal user**, prepare a directory.
+```
+mkdir -p ~/GNS3/projects
+mkdir -p ~/GNS3/images
+```
 
