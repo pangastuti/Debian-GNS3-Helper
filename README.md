@@ -4,7 +4,7 @@ The purpose of the script is to automate GNS3 installation on Debian Linux and D
 ## Pre-requisites
 Internet Connection, A user with sudo privilidges & Git.
 
-Install With
+Install Git with
 
 ``sudo apt -y install git``
 
