@@ -6,21 +6,21 @@ Internet Connection, A user with sudo privilidges & Git.
 
 Install With
 
-```sudo apt -y install git```
+``sudo apt -y install git``
 
 ## Usage
 
 Clone the repo into your computer
 
-```https://github.com/tuxsource/Debian-GNS3-Helper.git```
+``https://github.com/tuxsource/Debian-GNS3-Helper.git``
 
 Move to repo directory
 
-```cd Debian-GNS3-Helper```
+``cd Debian-GNS3-Helper``
 
 Install
 
-```sudo ./installer.sh```
+``sudo ./installer.sh``
 
 ## Manual Installation
 ### Add GNS3 Repository
