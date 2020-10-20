@@ -10,11 +10,11 @@ Install With
 
 ## How to Use
 
-Clone the repo into your computer
+Clone the repo into your computer **I clone in home directory**
 
 ```https://github.com/tuxsource/Debian-GNS3-Helper.git```
 
-Move to directory repo
+Move to repo directory
 
 ```cd Debian-GNS3-Helper```
 
