@@ -25,3 +25,7 @@ Install
 ## Manual Installation
 ### Add GNS3 Repository
 ``sudo add-apt-repository ppa:gns3/ppa``
+### Add i386 Architecture
+``sudo dpkg --add-architecture i386``
+### Update Repo
+```sudo apt update```
