@@ -52,8 +52,8 @@ mkdir -p ~/GNS3/projects
 mkdir -p ~/GNS3/images
 ```
 ## Reference
-https://lms.onnocenter.or.id/wiki/index.php/GNS3:_Instalasi
+* https://lms.onnocenter.or.id/wiki/index.php/GNS3:_Instalasi
 
-http://www.unixmen.com/install-gns3-graphical-network-simulator-ubuntu-13-04/
+* http://www.unixmen.com/install-gns3-graphical-network-simulator-ubuntu-13-04/
 
-https://community.gns3.com/people/rednectar/blog/2014/10/22/installing-gns3v1-on-linux
+* https://community.gns3.com/people/rednectar/blog/2014/10/22/installing-gns3v1-on-linux
