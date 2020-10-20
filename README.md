@@ -33,3 +33,16 @@ Install
 ```sudo apt -y install gns3-gui gns3-iou gns3-server virtualbox qemu wireshark libpcap-dev git ubridge```
 ### Change Permission for Wireshark
 ```sudo chmod 777 /usr/bin/dumpcap```
+### The installation process above will automatically install ubridge. Ubridge from apt seems unstable. It still seems better to compile ubridge yourself as follows
+```
+sudo su
+apt -y install libpcap-dev git
+cd /usr/local/src
+rm -Rf /usr/local/src/ubridge/
+git clone git://github.com/GNS3/ubridge.git
+cd ubridge
+make
+make install
+cp -p ubridge /usr/bin
+setcap cap_net_admin,cap_net_raw=ep /usr//bin/ubridge
+```
