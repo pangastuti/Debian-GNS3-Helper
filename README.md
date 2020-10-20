@@ -21,5 +21,3 @@ Move to repo directory
 Install
 
 ```sudo ./installer.sh```
-
-**NOTES: I clone repo in home directory**
