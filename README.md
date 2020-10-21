@@ -52,7 +52,7 @@ mkdir -p ~/GNS3/projects
 mkdir -p ~/GNS3/images
 ```
 Inspired from https://github.com/SirToffski/Arch-GNS3-Helper
-## Reference
+## Credit
 * https://lms.onnocenter.or.id/wiki/index.php/GNS3:_Instalasi
 
 * http://www.unixmen.com/install-gns3-graphical-network-simulator-ubuntu-13-04/
